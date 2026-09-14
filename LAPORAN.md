@@ -51,4 +51,13 @@ class PostController extends Controller
 - Jumlah Query Sebelum (Relasi)= 200
 - Jumlah Query Sesudah (Relasi)= 6
 
+1. Apa perbedaan jumlah query sebelum dan sesudah optimasi?
+   = Yang awalnya banyak query nya jadi sisa 6-3 doang 
+
+1. Mengapa masalah N+1 lebih berbahaya ketika data bertambah banyak?
+   = karena pengambilan data akan lebih lama 
+
+1. Kapan relasi perlu diambil sejak awal, dan kapan tidak diperlukan?
+   = agar tidak bolak balik mengambil data dan langsung dikirim
+
 

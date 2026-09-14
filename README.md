@@ -2,9 +2,9 @@
 
 ## Identitas Peserta
 
-- Nama: Zentristan 
-- Kelas: 
-- Tanggal pengumpulan: 
+- Nama: Zentristan Vitadi
+- Kelas: XI-3
+- Tanggal pengumpulan: 14 September 2026
 
 ## Tujuan Pembelajaran
 
