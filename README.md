@@ -2,9 +2,9 @@
 
 ## Identitas Peserta
 
-- Nama: ........................................................
-- Kelas: ........................................................
-- Tanggal pengumpulan: ...........................................
+- Nama: 
+- Kelas: 
+- Tanggal pengumpulan: 
 
 ## Tujuan Pembelajaran
 
