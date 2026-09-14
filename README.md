@@ -2,7 +2,7 @@
 
 ## Identitas Peserta
 
-- Nama: 
+- Nama: Zentristan 
 - Kelas: 
 - Tanggal pengumpulan: 
 
